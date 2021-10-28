@@ -1,7 +1,9 @@
 # NYC/Des_Moines_Citi_Bike_Challenge
 ---
 ## Overview
-The purpose of this exercise was to create a dynamic webpage with a table including mutliple search criteria for Dana and her data set of UFO activity. The initial webpage only included a date filter with an executable button.   To add further functionality the filter button was removed and we added filters for city, state, country, and shape.   Results mimic any and all filters applied to the dataset and return the updated results when "return" is hit.
+The purpose of this exercise was to create an informative Tableau dashboard analyzing the performance of Citi Bike within New York City for use of a business case to expand to Des Moines.   Many variables were taken into account are the findings are shown below and also on the publicy hosted dahboard.
+
+[link to dashboard](https://public.tableau.com/app/profile/ben.shelburn/viz/Challenge_16354378101270/Story1?publish=yes)
 
 ## Analysis Results
 
