@@ -37,7 +37,4 @@ Subscribers of the service tend to be Male and usage is most heavy during the wo
 ___
 
 ## Summary
-One drawback of the designed webpage is the search functioinality.  If you mispell or dont spell out completely your desired filter criteria your results will show blank. (Example Below)
-![Screen Shot 2021-10-01 at 12 06 49 PM](https://user-images.githubusercontent.com/84201082/135652640-ee05ea8f-d45f-4fb3-b63e-4ae313f817c8.png)
-
-Two recommendations for further development would be to add a fuzzzy search capability or spellcheck option for fields that must remain free text fields.   In addition to this I would also sugguest list dropdowns for categories for those filters without too many selections such as the Shape filter.   Also, despite an example of date format in the filter mistakess could still be made.   A pop out calendar where you can select the Year, Month, and date would help to avoid any issues.
+Based on the outcom displayed within the visualizations and takeaways above Citi Bike is very popular within NYC especially for communiting within Manhatten especially with the male population.   In the more suburban locations use is not nearly as poplular.   The most popular days of use fall within the workweek and are comprised of trips mostly between 1 and 24 mins with the highest amount being at the 5 min mark which would help to explain the lack of use outside of downtown.
