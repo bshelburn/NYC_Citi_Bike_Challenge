@@ -38,3 +38,7 @@ ___
 
 ## Summary
 Based on the outcom displayed within the visualizations and takeaways above Citi Bike is very popular within NYC especially for communiting within Manhatten especially with the male population.   In the more suburban locations use is not nearly as poplular.   The most popular days of use fall within the workweek and are comprised of trips mostly between 1 and 24 mins with the highest amount being at the 5 min mark which would help to explain the lack of use outside of downtown.
+
+Additional visualizations that I beleive would be helpful would require additional data information.   It would be interesting to loook into why Males utilize the service more.   Is it because of a large difference within the subjected area?   Does it have to do with more Women staying home and working remotely?  These metrics would be needed for Des Moines in order to say whether or not this business would be a good idea.   
+
+Population differences will be massive between the two cities in addition to onsite physical workplaces.   This also begs the question of the financial viability.   What are the profit margins associated with each bike and what is the break even in terms of use & associated maintenance.
