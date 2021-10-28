@@ -3,17 +3,21 @@
 ## Overview
 The purpose of this exercise was to create a dynamic webpage with a table including mutliple search criteria for Dana and her data set of UFO activity. The initial webpage only included a date filter with an executable button.   To add further functionality the filter button was removed and we added filters for city, state, country, and shape.   Results mimic any and all filters applied to the dataset and return the updated results when "return" is hit.
 
-## Results
-### How to perform a search
-Step 1: Execute the index.html file and you will arrive at the webpage with filters reading blank.
-![Screen Shot 2021-10-01 at 11 54 55 AM](https://user-images.githubusercontent.com/84201082/135651174-c5cb6c21-0bcf-4f40-8091-3e06bf4b10fa.png)
+## Analysis Results
 
-Step 2: Enter any desired search criteria such as date, city, state, country, or shape of UFO. I enetered the Date of 1/1/2010, State of CA, and City of El Cajon and results have now been fine tuned to only include those metrics.
-![Screen Shot 2021-10-01 at 11 59 28 AM](https://user-images.githubusercontent.com/84201082/135651974-92add0ba-044a-4573-8d82-24cd9831d97b.png)
+Most popular starting locations are in the Manhatten/ downtown area and dissapate outside of that area.
 
-Step 3: To further focus my results I enetered the additional filter of Triangle in the Shape filter.
-![Screen Shot 2021-10-01 at 12 03 07 PM](https://user-images.githubusercontent.com/84201082/135652125-72bd0a2e-6337-46b4-bd8a-6d1425be55a4.png)
+Top End Locations mimic those of the Top Starting Locations within the Manhatten/ downtown NY area.
 
+The majority of Bike Rentals are used for very short periods of time and fall between 1 and 24 mins with the most popular being the 5 min mark.
+
+Most Genders were able to be identified for this analysis.   The Male gender dominates in terms of both number of bike rentals as well as total minutes rented. No uselful information is gleaned outside of the 1 hour mark.
+
+The most popular time for all users is during the morning rush from 6 AM-9AM and the evening rush between 5PM-8PM.   Monday, Tuesday, and Thursday see the most ammount of usage during the week.
+
+Between the Male and Female genders the results mimic the combined results in the prev. chart and are still dominated by the male category.
+
+Subscribers of the service tend to be Male and usage is most heavy during the work week. Customers are fairly neutral across the board both in terms of gender but also days used.
 ___
 
 ## Summary
